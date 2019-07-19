@@ -2,7 +2,7 @@
 ```
 Time	2019.07.10 ~ 2019.07.18
 Circle	CCCc
-Role	Product Manager
+Role	Product Manager -- US
 Name	Kathy
 ```
 ## This week's summary
