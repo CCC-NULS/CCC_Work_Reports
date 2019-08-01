@@ -16,9 +16,9 @@ Name	Zhoulijun
 - nuls-v2 supports selecting and exporting packages for MAC, window and Linux.
 ## Next week's plan
 - nuls-v2 beta2线上测试和优化。
-- 继续晚上window版本的工具脚本，包括check-status、create-address等。
+- 继续完善window版本的工具脚本，包括check-status、create-address等。
 - nuls-v2 beta2 online testing and optimization.
-- continue the night window version of the tool scripts, including check-status, create-address, etc.
+- continue to improve the tool scripts of the window version, including check-status, create-address, etc.
 ## Work Problem Feedback
 - No
 
