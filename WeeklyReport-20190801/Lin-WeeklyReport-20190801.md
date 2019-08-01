@@ -2,7 +2,7 @@
 ```
 Time	2019.07.26 ~ 2019.08.01
 Circle	NTCC
-Role	Coordinator
+Role	Treasurer
 Name	Lin
 ```
 ## This week's summary
