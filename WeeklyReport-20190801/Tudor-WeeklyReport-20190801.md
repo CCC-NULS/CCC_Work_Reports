@@ -7,8 +7,10 @@ Name: Tudor
 ```
 ## This week's summary
 
-- Updated Wallet Card UI to reflect my latest design
+- Updated Wallet Card to reflect my latest design
 - Started nuls-js integration for sending tokens
+
+- Added proper PIN input handling
 - Started REDUX integration (PIN)
 
 ## Next week's plan
@@ -18,5 +20,5 @@ Name: Tudor
 
 ## Work Problem Feedback
 
-- None!
+- Couldn't send NULS on testnet using nuls-js
 
