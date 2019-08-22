@@ -7,11 +7,11 @@ Circle	: CCCc
 ```
 ## Milestones
 
-- Nulstar Manager: Software that allows to create releases to upload to server
+- Nulstar Manager: Software that allows to create releases ready to  upload to servers
 - Updater Module: Module in charge of updating new releases
-- Authentication Module: Module incharge to authenticate system access to users 
-- Script engine: Modules will be able to be created usign scripts, increasing productivty and ideal to implement new ideas with fast prototyping
-- Documentation of all modules.
+- Authentication Module: Module in charge of authenticating users for access
+- Script engine: Modules will be able to be created using scripts, increasing productivity and ideal to implement new ideas with fast prototyping
+- Documentation of all modules
 
 ## Progress 
 
