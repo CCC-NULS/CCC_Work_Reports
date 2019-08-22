@@ -19,9 +19,16 @@ Circle	: CCCc
 Date: 	2019.08.22 
 ```
 
-- Nulstar Manager: 20%
+- Nulstar Manager: 25%
 - Updater Module: 10%
 - Authentication Module: 0%
 - Script engine: 0%
 - Documentation of all modules: 15%
 
+```
+Notes:
+Compression library integrated
+About, Connector and Panel components in  prototype status
+Tools and Definitions libraries  in  prototype status
+
+```
