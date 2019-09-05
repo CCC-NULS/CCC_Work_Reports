@@ -21,7 +21,7 @@ Circle	: CCCc
 ## Progress 
 
 ```
-Date: 	2019.10.05 
+Date: 	2019.09.05 
 ```
 
 - Nulstar Manager: 85%
@@ -39,7 +39,7 @@ Multi window GUI framework completed
 ```
 
 ```
-Date: 	2019.09.29 
+Date: 	2019.08.29 
 ```
 
 - Nulstar Manager: 65%
