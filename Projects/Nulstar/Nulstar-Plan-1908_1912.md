@@ -21,6 +21,16 @@ Circle	: CCCc
 ## Progress 
 
 ```
+Date: 	2019.09.19
+```
+
+- Nulstar Manager: 97%
+- Updater Module: 17%
+- Authentication Module: 0%
+- Script engine: 0%
+- Documentation of all modules: 15%
+```
+
 Date: 	2019.09.05 
 ```
 
