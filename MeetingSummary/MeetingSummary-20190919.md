@@ -4,7 +4,5 @@ After hackathon, we will form a review team to review the submitted works, so we
 ## Topic2
 Technical information synchronization： we released an new  version of testnet this afternoon
 
-### decision
-kathy Norman
 
 
