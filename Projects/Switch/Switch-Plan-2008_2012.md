@@ -25,3 +25,12 @@ Date: 	2019.08.22
 - Support the NRC20 Token: 0%
 - Language internationalization: 0%
 
+## Progress 
+
+```
+Date: 	2019.10.10 
+```
+- Test and fix bug: 80%
+- Switch Manager Portal: 30%
+- Support the NRC20 Token: 0%
+- Language internationalization: 0%
