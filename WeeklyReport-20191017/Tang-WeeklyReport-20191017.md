@@ -8,8 +8,8 @@ Name	Tang
 ```
 ## This week's summary
 
-- Nerve design documentation
-- Nerve development plan development
+- Consensus optimization
+- Cross chain structure adjustment
 
 ## Next week's plan
 
