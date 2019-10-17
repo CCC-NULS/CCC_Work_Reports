@@ -14,6 +14,7 @@ Name: Berzeck
 - Hash signature and validation tests completed
 - Support and debate with community
 - Learning more about POCM mechanism and details
+ - Wrote mini tutorial for creating a full agent node 
  
 ## Next week's plan
 
