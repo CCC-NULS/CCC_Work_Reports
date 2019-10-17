@@ -15,6 +15,7 @@ Name    : Ray
 ## Next week's plan
 - NULS 2.0 TrustWallet integration  
   Code maintanance and issues fix
+- go-nuls project
 - Nulstar work
 ## Work Problem Feedback
 
