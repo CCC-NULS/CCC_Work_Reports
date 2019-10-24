@@ -46,34 +46,63 @@ Circle	: CCCd
 
 ## Progress 
 
+
 ```
-Date: 	2019.08.25
+Date: 	2019.10.24
 ```
 
 #### Nuls-js:
 
-  - Modular package architecture: 0%
-  - Account module: 0%
+  - Modular package architecture: 95%
+  - Account module: 95%
   - Block module: 0%
-  - Transaction module: 0%
+  - Transaction module: __60%__
   - Smart contract module: 0%
-  - Docs and tests: 0%
+  - Docs and tests: __20%__
 
 #### Nuls mobile wallet:
 
-  - Basic architecture: 0%
-  - UX & UI implementation: 0%
-  - Security concerns: 0%
-  - Account management: 0%
-  - Account details: 0%
+  - Basic architecture: 95%
+  - UX & UI implementation: 50%
+  - Security concerns: 60%
+  - Account management: 20%
+  - Account details: 20%
   - Basic portfolio: 0%
-  - Transaction form: 0%
+  - Transaction form: 20%
   - Staking form: 0%
   - Internationalization: 0%
   - Dapp browser: 0%
   - light wallet Qr integration: 0%
   - Documentation, tests, deployment and distribution: 0%
 
+
+```
+Date: 	2019.09.19
+```
+
+#### Nuls-js:
+
+  - Modular package architecture: 95%
+  - Account module: __95%__
+  - Block module: 0%
+  - Transaction module: __20%__
+  - Smart contract module: 0%
+  - Docs and tests: __10%__
+
+#### Nuls mobile wallet:
+
+  - Basic architecture: 95%
+  - UX & UI implementation: __50%__
+  - Security concerns: __60%__
+  - Account management: __20%__
+  - Account details: __20%__
+  - Basic portfolio: 0%
+  - Transaction form: __20%__
+  - Staking form: 0%
+  - Internationalization: 0%
+  - Dapp browser: 0%
+  - light wallet Qr integration: 0%
+  - Documentation, tests, deployment and distribution: 0%
 
 
 ```
@@ -106,27 +135,27 @@ Date: 	2019.09.05
 
 
 ```
-Date: 	2019.09.19
+Date: 	2019.08.25
 ```
 
 #### Nuls-js:
 
-  - Modular package architecture: 95%
-  - Account module: __95%__
+  - Modular package architecture: 0%
+  - Account module: 0%
   - Block module: 0%
-  - Transaction module: __20%__
+  - Transaction module: 0%
   - Smart contract module: 0%
-  - Docs and tests: __10%__
+  - Docs and tests: 0%
 
 #### Nuls mobile wallet:
 
-  - Basic architecture: 95%
-  - UX & UI implementation: __50%__
-  - Security concerns: __60%__
-  - Account management: __20%__
-  - Account details: __20%__
+  - Basic architecture: 0%
+  - UX & UI implementation: 0%
+  - Security concerns: 0%
+  - Account management: 0%
+  - Account details: 0%
   - Basic portfolio: 0%
-  - Transaction form: __20%__
+  - Transaction form: 0%
   - Staking form: 0%
   - Internationalization: 0%
   - Dapp browser: 0%
