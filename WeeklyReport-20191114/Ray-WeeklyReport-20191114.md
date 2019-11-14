@@ -9,7 +9,7 @@ Name    : Ray
 
 NULS TrustWallet Staking integration
 
-1. Learn https://developer.trustwallet.com/staking "Return Staking Data" guide and forked trustwallet/blockatlas repository to my worksace.
+1. Learned TrustWallet Staking "Return Staking Data" guide and forked trustwallet/blockatlas repository to my workspace.
 2. Add NULS integration source files and registered NULS into TrustWallet Staking framework. Refer to https://github.com/ccccbjcn/blockatlas/commit/9babf4227b44350183e0687fbdbbfab1fc340f4d for change details.  
 
 ## Next week's plan
