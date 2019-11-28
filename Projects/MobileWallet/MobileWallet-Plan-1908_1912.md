@@ -48,6 +48,36 @@ Circle	: CCCd
 
 
 ```
+Date: 	2019.11.28
+```
+
+#### Nuls-js:
+
+  - Modular package architecture: 95%
+  - Account module: 95%
+  - Block module: __95%__
+  - Transaction module: __75%__
+  - Smart contract module: 0%
+  - Docs and tests: __25%__
+
+#### Nuls mobile wallet:
+
+  - Basic architecture: 95%
+  - UX & UI implementation: 50%
+  - Security concerns: 60%
+  - Account management: 20%
+  - Account details: 20%
+  - Basic portfolio: 0%
+  - Transaction form: 20%
+  - Staking form: 0%
+  - Internationalization: 0%
+  - Dapp browser: 0%
+  - light wallet Qr integration: 0%
+  - Documentation, tests, deployment and distribution: 0%
+
+
+
+```
 Date: 	2019.10.24
 ```
 
