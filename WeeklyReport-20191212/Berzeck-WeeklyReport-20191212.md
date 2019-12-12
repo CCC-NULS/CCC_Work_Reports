@@ -17,7 +17,7 @@ Name: Berzeck
 - [Development] Nulstar Updater export functions for Connector
 - [Development] Initial ideas for centralized system
 - [Support] Community support
-- [Team] Reading and understanding all NTC reports and begin reasearch to more efficient way to track and evaluate progress of developers
+- [Team] Reading and understanding all NTC reports and begin reasearch to a more efficient way to track and evaluate progress of developers
  
 ## Next week's plan
 
