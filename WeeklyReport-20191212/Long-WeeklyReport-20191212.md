@@ -11,7 +11,7 @@ Name	Long
 
 ## Next week's plan
 
-- Study the business logic of nuls2.0.
+- Study the business logic of nuls2.0
 - Optimize the offline smart contract client.
 
 
