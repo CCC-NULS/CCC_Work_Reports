@@ -1,15 +1,15 @@
 # # Weekly Report
 ```
-Time	2019.11.29~ 2019.12.05
+Time	2019.12.05~ 2019.12.12
 Circle	CCCc
 Role	Coder
 Name	Zhoulijun
 ```
 ## This week's summary
-- NULS主网V2.2.0升级
-- NULS main network V2.2.0 upgrade
+- USDI后台系统开发
+- USDI background system development
 ## Next week's plan
-- USDI项目2阶段功能开发
-- USDI project phase 2 functional development
+- USDI后台系统开发
+- USDI background system development
 ## Work Problem Feedback
 - No
