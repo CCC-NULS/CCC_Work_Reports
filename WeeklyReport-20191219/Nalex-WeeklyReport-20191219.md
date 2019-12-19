@@ -1,6 +1,6 @@
 # Weekly Report 
 ```
-Time	2019.12.12 ~ 2019.19.12
+Time	2019.12.12 ~ 2019.12.19
 Circle	CCCc
 Role	Motion Designer
 Name	Nalex
