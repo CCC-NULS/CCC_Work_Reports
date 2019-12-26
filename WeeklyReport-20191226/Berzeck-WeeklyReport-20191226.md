@@ -12,6 +12,7 @@ Name: Berzeck
 - [Development]  Nulstar Updater just download necessary files and not whole package
 - [Development]  Nulstar Updater FINISH download process
 - [Mentoring] Mentoring Nancy who developed frist version of Python base library for  Nulstar infrastructure
+- [Mentoring] Helped Nancy writing her NTC application including summary of features, planned work, etc
 - [Infrastructure] Setup and configure Nulstar server and domain to receive mails and storing documents
 - [Team] USA team meeting, US proposal Budget meeting, NTCC meeting  and Council meeting  
 - [Partner] Vibook support
