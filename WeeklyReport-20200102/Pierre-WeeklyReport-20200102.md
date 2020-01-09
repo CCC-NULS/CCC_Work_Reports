@@ -1,7 +1,7 @@
 # Weekly Report 
 
 ```
-Time	2019.12.26 ~ 2019.01.02
+Time	2019.12.26 ~ 2020.01.02
 Circle	CCCc
 Role	Architect
 Name	Pierre
