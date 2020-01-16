@@ -10,16 +10,17 @@ Name: Nancy
 ### CODING
 - Updated and refactored all the nulsws-python code. Changed to
  match the PEP8 proposal doc. as suggested by Moshe. Some things should not be PEP8 
- compliant because interact with Java components that don't insist on all-lowercase, etc.
+ compliant because they interact with Java components that don't insist on all-lowercase, etc. 
+ I made code line length 90 instead of 79 since the trend is moving toward a longer line length and 
+ our code contains long lines that need the extra space.
 - Installed pyscaffold as recommended by Moshe. 
 - Implemented using yapf, flake8 and venv. 
-- Renamed / reorganized directories, and moved most variables into dictionaries for a 
+- Renamed and reorganized directories, and moved most variables into dictionaries for a 
 cleaner namespace.
-- Finished adding config-parser library to user settings can be in Nuls-style, ncf type 
+- Finished adding the config-parser library for user settings so that config files can be Nuls-style, ncf type 
 files.
-- Added http to the python project.
-although it's only http1.  Http2 is another whole decision on what libraries to use.
-made all the code PEP8 compliant except for the line length which I put at 90 instead of 79.
+- Added http to the python project, although it's only http1.  Http2 is another whole decision on what libraries to use.
+Made all the code PEP8 compliant
 
 ### CLOUD
 - Got started using Berzeck's new west server, chain factory and the 
@@ -31,11 +32,8 @@ testnet.
 
 ### OTHER
 
-- <b>TEAM</b> - Attended Dave's weekly West meeting and the regular WeChat meeting.
-
-- <b>ADMIN</b> - Finished 2020 goals and plans and put on Trello.
-
-
+- <b>TEAM</b> \- Attended Dave's weekly West meeting and the regular WeChat meeting.
+- <b>ADMIN</b> \- Finished 2020 goals and plans and put on Trello.
 
 
 ## Next week's plan
