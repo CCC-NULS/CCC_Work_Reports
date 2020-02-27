@@ -22,6 +22,8 @@ additional instructions in Section 4 regarding using the DApp and examining the 
 - Created a video showing the students how to use the Web Wallet, import an account, create an account, transfer tokens, etc. 
 - Communicated with Kristi to address all her requests, including documentation changes, creating 2 videos (1 is done), creating accounts, etc.
 - Berzeck rebooted the westteam server and mongoDb did not start!  Researched the problem.  It was caused by a file that did not have the correct ownership. Provided Berzeck and Nancy and explanation of the problem so they can fix it if it happens again. 
+- sent big Thank you! to Nancy, Angel, SAM JS, and Berzeck for all the work they have done in the past weeks to support PSU.  Nancy helped out greatly in finalizing the commands required for the Dapp to successfully the @payable method in the smart contract.
+
 
 Other Activities
 - weekly westteam meeting 
