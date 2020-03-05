@@ -7,15 +7,15 @@ Name	Albert
 ```
 ## This week's summary 
 - DEX test 
-- Nerve light wallet review
-- Collate Nerve light wallet test points
+- Heterogeneous across-chain light wallet review
+- Collate Heterogeneous across-chain light wallet test points
 
 
 
 ## Next week's plan
 
 - DEX test
-- Writing Nerve light wallet test cases
+- Writing Heterogeneous across-chain light wallet test cases
 - Other work 
 
 
