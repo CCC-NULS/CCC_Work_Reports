@@ -12,7 +12,7 @@ Name	Vivi
 
 - Bug fixes and optimizations for NULS2.0 sdk4j
 
-- Write Nerve design documentation
+- Write Heterogeneous cross links design documentation
 
   
 

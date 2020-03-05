@@ -7,7 +7,7 @@ Name    : Vivi
 ```
 ## This week's summary
 
-- Write the Nerve design documentation
+- Write the Heterogeneous cross links design documentation
 - Write Nerve project work plan
 
 ## Next week's plan
