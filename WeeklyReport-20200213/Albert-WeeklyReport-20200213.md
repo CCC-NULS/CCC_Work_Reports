@@ -6,7 +6,7 @@ Role	Test Engineer
 Name	Albert
 ```
 ## This week's summary 
-- Collate NERVE Explorer test points and writing test case 
+- Collate Heterogeneous across-chain Explorer test points and writing test case 
 - DEX test
 - New cross-chain test
 
@@ -14,7 +14,7 @@ Name	Albert
 
 ## Next week's plan
 
-- Writing NERVE Explorer test case 
+- Writing Heterogeneous across-chain Explorer test case 
 - DEX test
 - New cross-chain test
 
