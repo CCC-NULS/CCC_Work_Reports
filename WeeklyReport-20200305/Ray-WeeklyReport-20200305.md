@@ -9,7 +9,7 @@ Name    : Ray
 
 NULS 2.0 integration for Ledger wallet
 
-1. Discussed with Ledger Supporter in Slack, we got they decide whether integrate it into Ledger Live APP after they evaluate NULS. They perform the integration work internally.
+1. Discussed with Ledger Supporter in Slack, we got they decide whether integrate NULS into Ledger Live APP after they evaluate NULS. They perform the integration work internally.
 
 2. Changed nytro-wallet to support NULS 2.0, it could get Ledger account from Ledger Nano S device and display Ledger account address in device.
 
