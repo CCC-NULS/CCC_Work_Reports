@@ -13,7 +13,7 @@ Name	Pierre
 
 ## Next week's plan
 
-- Develop nerve cross chain
+- Develop heterogeneous cross chain
 
 ## Work Problem Feedback
 
