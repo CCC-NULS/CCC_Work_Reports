@@ -6,10 +6,10 @@ Role	Coder
 Name	Tang
 ```
 ## This week's summary
-- Nerve transaction debugging
+- Heterogeneous consensus transaction debugging
 - Block repeat message filtering bug fix
 - Economic model development
-- Nerve consensus network stability debugging
+- Heterogeneous consensus network stability debugging
 
 ## Next week's plan
 

@@ -15,7 +15,7 @@ Name	tag
 
 ## Next week's plan
 
-- Nerve function development
+- Heterogeneous consensus function development
 
 ## Work Problem Feedback
 - None

@@ -7,11 +7,11 @@ Name	Tang
 ```
 ## This week's summary
 - Token asset cross chain transfer cross chain module partial modification
-- Nerve module modification test
+- Heterogeneous consensus module modification test
 
 ## Next week's plan
 
--  Nerve module modification test
+-  Heterogeneous consensus module modification test
 
 ## Work Problem Feedback
 - No

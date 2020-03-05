@@ -13,7 +13,7 @@ Name	Tang
 
 ## Next week's plan
 
-- Nerve development
+- Heterogeneous consensus development
 
 ## Work Problem Feedback
 
