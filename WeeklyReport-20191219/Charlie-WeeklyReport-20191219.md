@@ -7,7 +7,7 @@ Name	Charlie
 ```
 ## This week's summary
 - Debug dex price data collection
-- Debug nerve network
+- Debug network
 
 
 
