@@ -6,14 +6,14 @@ Role	Developer
 Name	Tang
 ```
 ## This week's summary
-- Nerve stability test
+- Heterogeneous consensus stability test
 - Synchronization block and network reset and modification
 
 
 
 
 ## Next week's plan
-- Nerve performance test and bug repair
+- Heterogeneous consensus performance test and bug repair
 
 ## Work Problem Feedback
 - No

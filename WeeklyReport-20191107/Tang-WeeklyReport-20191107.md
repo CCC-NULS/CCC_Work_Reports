@@ -7,11 +7,11 @@ Name	Tang
 ```
 ## This week's summary
 - Add smart contract token cross chain transfer function
-- Nerve bottom implementation
+- Heterogeneous consensus bottom implementation
 
 ## Next week's plan
 
--  Nerve bottom implementation
+-  Heterogeneous consensus bottom implementation
 
 ## Work Problem Feedback
 - No

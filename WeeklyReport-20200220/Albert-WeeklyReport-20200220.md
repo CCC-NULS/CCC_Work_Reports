@@ -6,7 +6,7 @@ Role	Test Engineer
 Name	Albert
 ```
 ## This week's summary 
-- Writing NERVE Explorer test case 
+- Writing Heterogeneous across-chain Explorer test case 
 - New cross-chain test
 - NRC-20 token cross-chain test
 
@@ -15,7 +15,7 @@ Name	Albert
 ## Next week's plan
 
 - DEX test
-- Nerve Explorer test
+- Heterogeneous across-chain Explorer test
 
 
 

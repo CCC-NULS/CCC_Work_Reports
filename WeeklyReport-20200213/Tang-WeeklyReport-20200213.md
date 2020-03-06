@@ -8,11 +8,11 @@ Name	Tang
 ```
 ## This week's summary
 
-- Nerve stability test and bug repair
+- Heterogeneous consensus stability test and bug repair
 
 ## Next week's plan
 
-- Nerve performance test and bug repair
+- Heterogeneous consensus performance test and bug repair
 
 ## Work Problem Feedback
 

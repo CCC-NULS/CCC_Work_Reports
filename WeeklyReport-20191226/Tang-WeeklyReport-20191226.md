@@ -7,8 +7,8 @@ Name	Tang
 ```
 ## This week's summary
 - Bug repair of main network
-- Nerve network node change logic debugging and modification
-- Nerve consensus network stability debugging
+- Heterogeneous consensus network node change logic debugging and modification
+- Heterogeneous consensus network stability debugging
 - Multiple signature related code check
 
 ## Next week's plan

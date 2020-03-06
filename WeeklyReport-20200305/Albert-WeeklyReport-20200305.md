@@ -1,21 +1,21 @@
 # Weekly Report 
 ```
-Time	2020.02.21 ~ 2020.02.27
+Time	2020.02.28 ~ 2020.03.05
 Circle	CCCc
 Role	Test Engineer
 Name	Albert
 ```
 ## This week's summary 
 - DEX test 
-- Heterogeneous across-chain light wallet review
-- Collate Heterogeneous across-chain light wallet test points
+- EDA wallet and exporler test
+- Complete collate Heterogeneous across-chain light wallet test points
 
 
 
 ## Next week's plan
 
 - DEX test
-- Writing Heterogeneous across-chain light wallet test cases
+- Writing Nerve light wallet test cases
 - Other work 
 
 

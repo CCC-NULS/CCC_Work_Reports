@@ -1,18 +1,18 @@
 # Weekly Report 
 
 ```
-Time	2020.02.20 ~ 2020.02.27
+Time	2020.02.27 ~ 2020.03.05
 Circle	CCCc
 Role	Architect
 Name	Pierre
 ```
 ## This week's summary
 
-- Develop heterogeneous cross chain about eth 
+- Develop eth contract code 
 
 ## Next week's plan
 
-- Develop eth contract code 
+- Test eth contract code 
 
 ## Work Problem Feedback
 

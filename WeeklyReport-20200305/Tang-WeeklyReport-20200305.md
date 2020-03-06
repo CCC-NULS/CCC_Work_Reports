@@ -1,20 +1,20 @@
 # Weekly Report 
 
 ```
-Time	2020.02.21 ~ 2020.02.27
+Time	2020.02.28 ~ 2020.03.05
 Circle	CCCc
 Role	coder
 Name	Tang
 ```
 ## This week's summary
 
-- Heterogeneous consensus performance test and bug repair
 - Heterogeneous consensus regression test and bug repair
+- Consensus network and block bug repair
 
 ## Next week's plan
 
-- Heterogeneous consensus regression test and bug repair
-- Consensus network and block bug repair
+- Heterogeneous cross chain interface addition
+- Heterogeneous consensus performance optimization
 
 ## Work Problem Feedback
 

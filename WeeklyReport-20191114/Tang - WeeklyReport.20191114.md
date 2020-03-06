@@ -6,13 +6,13 @@ Role	Coder
 Name	Tang
 ```
 ## This week's summary 
-- Nerve module development
+- Heterogeneous consensus module development
 
 - Main network bug troubleshooting
 
 ## Next week's plan
-- Nerve module development
-- Nerve module modification
+- Heterogeneous consensus  module development
+- Heterogeneous consensus  module modification
 
 ## Work Problem Feedback
 - No

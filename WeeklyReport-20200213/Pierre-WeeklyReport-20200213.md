@@ -8,11 +8,11 @@ Name	Pierre
 ```
 ## This week's summary
 
-- Writing the nerve cross-chain document
+- Writing the heterogeneous cross-chain document
 
 ## Next week's plan
 
-- Develop nerve cross chain
+- Develop heterogeneous cross chain
 
 ## Work Problem Feedback
 
