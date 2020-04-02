@@ -10,6 +10,7 @@ Name    : Pen
 - Release nabox V1.0.5,optimizing network connection
 - Update IOS nabox to V1.1.1
 
+
 ## Next week's plan
 - Go on product designing of cloud platform
 
