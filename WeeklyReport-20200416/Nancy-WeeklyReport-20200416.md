@@ -1,7 +1,7 @@
 # Weekly Report
 ```
 Time: 	2020.04.09 - 2020.04.16
-Circle:	NTC
+Circle:	CCCc
 Role:   Coder
 Name:   Nancy
 ```
