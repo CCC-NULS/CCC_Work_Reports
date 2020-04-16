@@ -27,7 +27,7 @@ Name:   Nancy
 - OTHER: Correct doc errors and manage other editors.
 
 #### On Hold
-- PYTHON: The python websocket project needs to be setup to run with Pip and venv. nulspy-requests needs a little more work so others can easily use it.
+- PYTHON: The python websocket project needs to be setup to run with Pip and venv. 
 
 #### Work Problem Feedback
 - None.
