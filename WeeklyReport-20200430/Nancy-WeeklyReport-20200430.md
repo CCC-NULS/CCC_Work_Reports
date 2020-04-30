@@ -10,7 +10,7 @@ Name:   Nancy
 #### CODING 
 - Worked on rewriting the Tokenomics dapp with Vue.js, Vuetify and Python.  
 - Tweaked the look and color scheme of the dapp. Edited the explanations. 
-- Tweaked the python code so that it create the graphs from the command line.
+- Tweaked the python code so that it createS the graphs from the command line.
 - Worked on Vue verification of field data. Had Vee-Validate working, then found it had problems, so removed it and put correct data into popup select menus. Will try again later with Vuelidate. Also tried using the Vuetify built-in validation, but it's not enough for our data.
 
 #### OTHER
